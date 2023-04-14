@@ -3,9 +3,9 @@ from sys import exit
 import random
 
 pygame.init()
-pygame.display.set_caption("Realoba")
+pygame.display.set_caption("Fire Rectangle")
 
-# xem xashi xetqa saxetqelshi
+
 
 class Global:
     def __init__(self, width, height, fps):
